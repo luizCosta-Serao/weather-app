@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.4ab6883f.css",
+    "main.js": "/weather-app/static/js/main.262c994d.js",
+    "static/media/img-noticia.png": "/weather-app/static/media/img-noticia.ccb2192ec2f8517ba554.png",
+    "static/media/ceu-limpo.svg": "/weather-app/static/media/ceu-limpo.67aee4797a00453e66b4ebd7f4a669e0.svg",
+    "static/media/nuvem.svg": "/weather-app/static/media/nuvem.4bf5bbaef14cd639dc5e348a35dd27a3.svg",
+    "static/media/sensacao.svg": "/weather-app/static/media/sensacao.bfe40b2fa184ac56fff3089cd5074cd0.svg",
+    "index.html": "/weather-app/index.html",
+    "main.4ab6883f.css.map": "/weather-app/static/css/main.4ab6883f.css.map",
+    "main.262c994d.js.map": "/weather-app/static/js/main.262c994d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab6883f.css",
+    "static/js/main.262c994d.js"
+  ]
+}
