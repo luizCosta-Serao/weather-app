@@ -1,0 +1,87 @@
+.tempoAgora {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+  background-color: #fff;
+  padding: 2rem 1rem;
+  border-radius: 1rem;
+  width: 37%;
+}
+
+.tempoAgora > p {
+  display: flex;
+  align-items: center;
+  font-size: 3rem;
+  color: #050E24;
+  font-weight: 600;
+  margin-top: 1rem;
+}
+
+.nuvemSensacao {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.nuvemSensacao > p {
+  display: flex;
+  align-items: center;
+  font-size: .875rem;
+  gap: .3rem;
+  color: #9C9C9C;
+}
+
+.nuvemSensacao > p > img {
+  width: 30px;
+  height: 30px;
+}
+
+.vento {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 1rem;
+  align-items: center;
+  max-width: 300px;
+}
+
+.vento h3 {
+  color: #050E24;
+}
+
+.vento p {
+  color: #9C9C9C;
+  font-size: .875rem;
+}
+
+.umidade {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: .5rem;
+  max-width: 300px;
+}
+
+.umidade h3 {
+  color: #050E24;
+}
+
+.umidade p {
+  color: #9C9C9C;
+  font-size: .875rem;
+}
+
+@media (max-width:876px) {
+  .tempoAgora {
+    width: auto;
+  }
+}
+
+@media (max-width:550px) {
+  .tempoAgora {
+    width: 90%;
+  }
+}
